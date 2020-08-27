@@ -6,7 +6,7 @@ speed=random(55,90);
 weight=random(400,1500);
   createCanvas(1600,400);
   car=createSprite(100, 80, 70, 40);
-  wall= createSprite(1500, 200, 60, 400);
+  wall= createSprite(1100, 200, 60, 400);
   
  
 }
